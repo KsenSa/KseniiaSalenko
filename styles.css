@@ -124,3 +124,6 @@ p {
 .text_href {
   color: #66BFBF;
 }
+.container-fluid {
+  padding: 7% 15%;
+}
