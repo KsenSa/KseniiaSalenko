@@ -112,8 +112,9 @@ p {
 }
 
 .testimonial-image {
-  width: 10%;
-  border-radius: 100%;
+  width: 120px;
+  height: 85px;
+  border-radius: 15%;
   margin: 20px;
 }
 
